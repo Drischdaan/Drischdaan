@@ -3,6 +3,11 @@
 My name is Tristan aka. Drischdaan. I am **17** years old and from **germany**.
 I love to code **web applications**, as well as **c++ desktop applications**.
 
+## Recent projects
+
+| Name               | Link    |
+| ------------------ | :-----: |
+| Daily Notes        | [Fronted](https://github.com/Drischdaan/DailyNotes-Frontend) / [Backend](https://github.com/Drischdaan/DailyNotes-Backend) |
 
 ## What do I use?
 <p>
@@ -27,6 +32,6 @@ I love to code **web applications**, as well as **c++ desktop applications**.
 
 <div>
     <a href="https://www.buymeacoffee.com/Drischdaan" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" width="170" height="40" alt="Buy Me A Coffee" />
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="40" width="170" />
     </a>
 </div>
