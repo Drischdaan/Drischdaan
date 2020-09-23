@@ -7,7 +7,7 @@ I love to code **web applications**, as well as **c++ desktop applications**.
 
 | Name               | Link    |
 | ------------------ | :-----: |
-| Daily Notes        | [Fronted](https://github.com/Drischdaan/DailyNotes-Frontend) / [Backend](https://github.com/Drischdaan/DailyNotes-Backend) |
+| Daily Notes        | [Frontend](https://github.com/Drischdaan/DailyNotes-Frontend) / [Backend](https://github.com/Drischdaan/DailyNotes-Backend) |
 
 ## What do I use?
 <p>
