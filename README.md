@@ -7,6 +7,7 @@ I love to code **web applications**, as well as **c++ desktop applications**.
 
 | Name               | Link    |
 | ------------------ | :-----: |
+| Honey Cloud        | [Link](https://github.com/Honey-Smart-Home/cloud)
 | Rustar             | [Link](https://github.com/Drischdaan/Rustar) |
 | Daily Notes        | [Frontend](https://github.com/Drischdaan/DailyNotes-Frontend) / [Backend](https://github.com/Drischdaan/DailyNotes-Backend) |
 
