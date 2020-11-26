@@ -8,7 +8,7 @@ I love to code **web applications**, as well as **c++ desktop applications**.
 | Name               | Link    |
 | ------------------ | :-----: |
 | Honey Cloud        | [Link](https://github.com/Honey-Smart-Home/cloud)
-| Rustar             | [Link](https://github.com/Drischdaan/Rustar) |
+| Ray                | [Link](https://github.com/Drischdaan/Ray) |
 | Daily Notes        | [Frontend](https://github.com/Drischdaan/DailyNotes-Frontend) / [Backend](https://github.com/Drischdaan/DailyNotes-Backend) |
 
 ## What do I use?
