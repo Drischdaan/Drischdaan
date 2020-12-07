@@ -5,11 +5,10 @@ I love to code **web applications**, as well as **c++ desktop applications**.
 
 ## Recent projects
 
-| Name               | Link    |
-| ------------------ | :-----: |
-| Honey Cloud        | [Link](https://github.com/Honey-Smart-Home/cloud)
-| Ray                | [Link](https://github.com/Drischdaan/Ray) |
-| Daily Notes        | [Frontend](https://github.com/Drischdaan/DailyNotes-Frontend) / [Backend](https://github.com/Drischdaan/DailyNotes-Backend) |
+| Name               | Description                         |  Link                                                |
+| ------------------ | :---------------------------------: | :--------------------------------------------------: |
+| @honey-sh/di       | IoC system                          | [Link](https://github.com/Honey-Smart-Home/honey-di) |
+| Ray                | Internal / External Cheat Framework | [Link](https://github.com/Drischdaan/Ray)            |
 
 ## What do I use?
 <p>
