@@ -1,32 +1,36 @@
-## Hi 👋
+<div align="center">
+    <img height="200px" src="./assets/images/banner.png">
+</div>
 
-My name is Tristan aka. Drischdaan. I am **17** years old and from **germany**.
-I love to code **web applications**, as well as **c++ desktop applications**.
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+
+<div>
+    <div>
+        Nice to see you here! My name is Tristan (aka. Drischdaan). I am from germany and currently I am a apprentice at a company that develops <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">erp</a> software. In my free time I like to develop my own projects, play games with friends or just hang out with them.
+    </div>
+    <br>
+    <div>
+        I am very interested in how computers / the operating system works and in general in web development. In the past I worked on several cheat, website and on home automation projects. Currently I am focusing on web development and home automation.
+    </div>
+    <br>
+    <div>
+        <a href="https://www.instagram.com/drischdaan/"><img src="./assets/images/instagram.svg" height="20px"></a>
+        <a href="https://twitter.com/drischdaan/"><img src="./assets/images/twitter.svg" height="20px"></a>
+        <a href="https://dev.to/drischdaan"><img src="./assets/images/dev-dot-to.svg" height="20px"></a>
+    </div>
+</div>
+<br>
 
 ## Recent projects
 
-| Name               | Description                         |  Link                                                |
-| ------------------ | :---------------------------------: | :--------------------------------------------------: |
-| @honey-sh/di       | IoC system                          | [Link](https://github.com/Honey-Smart-Home/honey-di) |
-| Ray                | Internal / External Cheat Framework | [Link](https://github.com/Drischdaan/Ray)            |
-
-## What do I use?
-<p>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Node.js-5AAA47?style=flat-square&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Firebase-FFA000?style=flat-square&logo=Firebase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/>
-</p>
-
-## Social Media:
-
-[![twitter](https://img.shields.io/badge/-Drischdaan-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/Drischdaan)
-[![twitter](https://img.shields.io/badge/-drischdaan-313131?style=flat-square&labelColor=313131&logo=instagram&logoColor=white&color=313131)](https://www.instagram.com/Drischdaan/)
+<div align="center">
+    <a href="https://github.com/Honey-Smart-Home/honey-di">
+        <img src="https://stats.drischdaan.vercel.app/api/pin/?username=Honey-Smart-Home&repo=honey-di&show_icons=true&show_owner=true&theme=tokyonight&hide_border=true" width="380px" height="120px">
+    </a>
+    <a href="https://github.com/Drischdaan/Ray">
+        <img src="https://stats.drischdaan.vercel.app/api/pin/?username=Drischdaan&repo=Ray&show_icons=true&show_owner=true&theme=tokyonight&hide_border=true" width="380px" height="120px">
+    </a>
+</div>
 
 
 ## Support
