@@ -5,14 +5,16 @@
 </div>
 
 <div align="right">
-    <div style="text-align: left;">
-        <div style="margin-bottom: 20px;">
+    <div align="left">
+        <div>
             Nice to see you here! My name is Tristan (aka. Drischdaan). I am from germany and currently I am a apprentice at a company that develops <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">erp</a> software. In my free time I like to develop my own projects, play games with friends or just hang out with them.
         </div>
-        <div style="margin-bottom: 20px;">
+        <br>
+        <div>
             I am very interested in how computers / the operating system works and
         </div>
-        <div style="margin-top: 70px;">
+        <br>
+        <div>
             <a href="https://www.instagram.com/drischdaan/"><img src="./assets/images/instagram.svg" height="20px"></a>
             <a href="https://twitter.com/drischdaan/"><img src="./assets/images/twitter.svg" height="20px"></a>
             <a href="https://dev.to/drischdaan"><img src="./assets/images/dev-dot-to.svg" height="20px"></a>
