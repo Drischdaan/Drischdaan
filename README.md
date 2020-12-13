@@ -10,7 +10,7 @@
     </div>
     <br>
     <div>
-        I am very interested in how computers / the operating system works and in general in web development.
+        I am very interested in how computers / the operating system works and in general in web development. In the past I worked on several cheat, website and on home automation projects. Currently I am focusing on web development and home automation.
     </div>
     <br>
     <div>
