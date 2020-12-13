@@ -1,22 +1,24 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 <div>
-    <img align="left" style="border-radius: 50%;" width="200px" src="https://avatars0.githubusercontent.com/u/42834596">
+    <img align="left" width="200px" src="https://avatars0.githubusercontent.com/u/42834596">
 </div>
 
-Nice to see you here! My name is Tristan (aka. Drischdaan). I am from germany and currently I am a apprentice at a company that develops <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">erp</a> software. In my free time I like to develop my own projects, play games with friends or just hang out with them.
-<br>
-<br>
-I am very interested in how computers / the operating system works and
-<br>
-<br>
-
-<div align="left">
-    <a href="https://www.instagram.com/drischdaan/"><img src="./assets/images/instagram.svg" height="20px"></a>
-    <a href="https://twitter.com/drischdaan/"><img src="./assets/images/twitter.svg" height="20px"></a>
-    <a href="https://dev.to/drischdaan"><img src="./assets/images/dev-dot-to.svg" height="20px"></a>
+<div align="right">
+    <div style="text-align: left;">
+        <div style="margin-bottom: 20px;">
+            Nice to see you here! My name is Tristan (aka. Drischdaan). I am from germany and currently I am a apprentice at a company that develops <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">erp</a> software. In my free time I like to develop my own projects, play games with friends or just hang out with them.
+        </div>
+        <div style="margin-bottom: 20px;">
+            I am very interested in how computers / the operating system works and
+        </div>
+        <div style="margin-top: 70px;">
+            <a href="https://www.instagram.com/drischdaan/"><img src="./assets/images/instagram.svg" height="20px"></a>
+            <a href="https://twitter.com/drischdaan/"><img src="./assets/images/twitter.svg" height="20px"></a>
+            <a href="https://dev.to/drischdaan"><img src="./assets/images/dev-dot-to.svg" height="20px"></a>
+        </div>
+    </div>
 </div>
-<br>
 
 ## Recent projects
 
