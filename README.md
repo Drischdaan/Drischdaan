@@ -27,9 +27,6 @@
     <a href="https://github.com/Honey-Smart-Home/honey-di">
         <img src="https://stats.drischdaan.vercel.app/api/pin/?username=Honey-Smart-Home&repo=honey-di&show_icons=true&show_owner=true&theme=tokyonight&hide_border=true" width="380px" height="120px">
     </a>
-    <a href="https://github.com/Drischdaan/Ray">
-        <img src="https://stats.drischdaan.vercel.app/api/pin/?username=Drischdaan&repo=Ray&show_icons=true&show_owner=true&theme=tokyonight&hide_border=true" width="380px" height="120px">
-    </a>
 </div>
 
 
