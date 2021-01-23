@@ -28,6 +28,11 @@
         <img src="https://stats.drischdaan.vercel.app/api/pin/?username=Honey-Smart-Home&repo=honey-di&show_icons=true&show_owner=true&theme=tokyonight&hide_border=true" width="380px" height="120px">
     </a>
 </div>
+<div align="center">
+    <a href="https://github.com/Drischdaan/Java-Di">
+        <img src="https://stats.drischdaan.vercel.app/api/pin/?username=Drischdaan&repo=Java-Di&show_icons=true&show_owner=true&theme=tokyonight&hide_border=true" width="380px" height="120px">
+    </a>
+</div>
 
 
 ## Support
