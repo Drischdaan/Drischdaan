@@ -33,6 +33,11 @@
         <img src="https://stats.drischdaan.vercel.app/api/pin/?username=Drischdaan&repo=Java-Di&show_icons=true&show_owner=true&theme=tokyonight&hide_border=true" width="380px" height="120px">
     </a>
 </div>
+<div align="center">
+    <a href="https://github.com/Drischdaan/r4dical">
+        <img src="https://stats.drischdaan.vercel.app/api/pin/?username=Drischdaan&repo=r4dical&show_icons=true&show_owner=true&theme=tokyonight&hide_border=true" width="380px" height="120px">
+    </a>
+</div>
 
 
 ## Support
