@@ -24,7 +24,7 @@
 ## Support
 
 <div>
-    <a href="https://www.buymeacoffee.com/Drischdaan" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="40" width="170" />
+    <a href="https://www.buymeacoffee.com/Drischdaan">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Drischdaan&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00">
     </a>
 </div>
