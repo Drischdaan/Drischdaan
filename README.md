@@ -6,7 +6,7 @@
 
 <div>
     <div>
-        Nice to see you here! My name is Tristan (aka. Drischdaan). I am from germany and currently I am a apprentice at a company that develops <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">erp</a> software. In my free time I like to develop my own projects, play games with friends or just hang out with them.
+        Nice to see you here! My name is Tristan (aka. Drischdaan). I am from germany and currently I am working at a company that develops <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">erp</a> software. In my free time I like to develop my own projects, play games with friends or just hang out with them.
     </div>
     <br>
     <div>
