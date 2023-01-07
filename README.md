@@ -10,7 +10,7 @@
     </div>
     <br>
     <div>
-        I am very interested in game engines and computer graphics right now. In the past I worked on several cheat-, website- and on home automation projects. Currently I am focusing on game engine development and home automation.
+        I am very interested in game engines and computer graphics right now. In the past I worked on several cheat-, website- and on home automation projects. Currently I am focusing on game engine development and graphics programming.
     </div>
     <br>
     <div>
