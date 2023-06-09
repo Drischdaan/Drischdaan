@@ -1,27 +1,71 @@
-<div align="center">
-    <img height="200px" src="./assets/images/banner.png">
+<div id="header" align="center">
+    <img height="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI5MTUyNDZhZjVhOTc0NmUyNmM2ZDQyZGI4NjhiYmIyNTc5OTMwMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SHjOSDkKZ18qOHA5B5/giphy.gif">
 </div>
 
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tristan-zieger-966585231/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dev.to/drischdaan">
+    <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://twitter.com/Drischdaan">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div id="profileViews" align="center">
+    <img src="https://komarev.com/ghpvc/?username=Drischdaan&style=for-the-badge&color=blue" alt=""/>    
+</div>
+
+<h2 align="center">
+    Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h2>
+
+<div id="banner" align="center">
+    <img src="./assets/images/banner.png" alt=""/>    
+</div>
+
+---
+
+### 👨🏼‍💻 About me
+
+I am a software developer from germany <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" title="Germany" alt="Germany" width="13" height="13"/>.
+
+- 🚀 Working as a full stack developer
+- 🎮 Developing games in my free time
+- 🖼️ Interested in computer graphics and game engines
+
+---
+
+### 🛠️ Languages, tools and libraries
 
 <div>
-    <div>
-        Nice to see you here! My name is Tristan (aka. Drischdaan). I am from germany and currently I am working at a company that develops <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">erp</a> software. In my free time I like to develop my own projects, play games with friends or just hang out with them.
-    </div>
-    <br>
-    <div>
-        I am very interested in game engines and computer graphics right now. In the past I worked on several cheat-, website- and on home automation projects. Currently I am focusing on game engine development and graphics programming.
-    </div>
-    <br>
-    <div>
-        <a href="https://www.instagram.com/drischdaan/"><img src="./assets/images/instagram.svg" height="20px"></a>
-        <a href="https://twitter.com/drischdaan/"><img src="./assets/images/twitter.svg" height="20px"></a>
-        <a href="https://dev.to/drischdaan"><img src="./assets/images/dev-dot-to.svg" height="20px"></a>
-    </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vulkan_logo.svg" title="Vulkan" alt="Vulkan" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft-DirectX-11-Logo-wordmark.svg" title="DirectX11" alt="DirectX11" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" title="Rider" alt="Rider" width="40" height="40"/>&nbsp;
 </div>
-<br>
 
-## Support
+---
+
+### 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/tristan-zieger-966585231/)
+- [Twitter](https://twitter.com/Drischdaan)
+- [Discord](https://discordapp.com/users/244115221776433152)
+- [Email](mailto:drischdaan@gmail.com)
+
+---
 
 <div>
     <a href="https://www.buymeacoffee.com/Drischdaan">
