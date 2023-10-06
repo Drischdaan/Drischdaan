@@ -2,6 +2,8 @@
 
 I'm a full-stack developer from germany <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" title="Germany" alt="Germany" width="13" height="13"/>, working at <a href="https://www.assecosolutions.com/en/">Asseco Solutions</a>. I'm passionate about expanding my skillset, exploring new technologies, enhancing developer experience, and crafting innovative software solutions. Currently I'm focusing on <a href="https://en.wikipedia.org/wiki/Computer_graphics">computer graphics</a>.
 
+💼 [Work Account](https://github.com/asseco-tristan)
+
 ---
 
 <p align="center">
