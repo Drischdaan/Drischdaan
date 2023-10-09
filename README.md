@@ -8,7 +8,7 @@ I'm a full-stack developer from germany <img src="https://upload.wikimedia.org/w
 
 <p align="center">
   <a href="https://holopin.io/@drischdaan">
-    <img src="https://holopin.me/drischdaan" alt="@drischdaan's Holopin board"/>
+    <img src="https://holopin.me/drischdaan?" alt="@drischdaan's Holopin board"/>
   </a>
 </p>
 
