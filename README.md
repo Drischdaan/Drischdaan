@@ -19,7 +19,7 @@ I'm a full-stack developer from germany <img src="https://upload.wikimedia.org/w
 | Backend          | ![icons](https://skillicons.dev/icons?i=ts,nestjs,postgres,redis)        |
 | Frontend         | ![icons](https://skillicons.dev/icons?i=next,angular,tailwind,reactivex) |
 | Cloud            | ![icons](https://skillicons.dev/icons?i=azure,gcp,heroku)                |
-| Game Development | ![icons](https://skillicons.dev/icons?i=cpp,unity,unreal,cmake)          |
+| Game Development | ![icons](https://skillicons.dev/icons?i=cpp,unity,unreal)                |
 | Tools            | ![icons](https://skillicons.dev/icons?i=docker,postman)                  |
 
 ---
