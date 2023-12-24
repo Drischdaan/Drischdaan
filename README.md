@@ -24,6 +24,10 @@ I'm a full-stack developer from germany <img src="https://upload.wikimedia.org/w
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Drischdaan&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+
+---
+
 ### Contact
 
 <a href="https://twitter.com/Drischdaan">
