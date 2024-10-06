@@ -4,20 +4,16 @@ My name is Tristan (aka drischdaan) and I'm a full-stack developer from germany 
 
 <div>
   <a href="https://drischdaan.dev/">
-    <img alt="Website" src="https://img.shields.io/badge/-drischdaan.dev-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white&labelColor=%230A0A0A
-    ">
+    <img alt="Website" src="https://img.shields.io/badge/-drischdaan.dev-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white&labelColor=%230A0A0A">
   </a>
   <a href="https://www.linkedin.com/in/tristan-zieger/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-%40tristan--zieger-0A66C2?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2
-    ">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-%40tristan--zieger-0A66C2?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2">
   </a>
   <a href="https://open.spotify.com/user/wqqh06uhneiz0mm94aqsgzhte">
-    <img alt="Spotify" src="https://img.shields.io/badge/-%40drischdaan-1ED760?style=flat-square&logo=spotify&logoColor=1DB954&labelColor=white
-    ">
+    <img alt="Spotify" src="https://img.shields.io/badge/-%40drischdaan-1ED760?style=flat-square&logo=spotify&logoColor=1DB954&labelColor=white">
   </a>
   <a href="https://www.instagram.com/drischdaan/">
-    <img alt="Instagram" src="https://img.shields.io/badge/-%40drischdaan-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=white
-    ">
+    <img alt="Instagram" src="https://img.shields.io/badge/-%40drischdaan-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=white">
   </a>
 </div>
 
