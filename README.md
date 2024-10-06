@@ -1,8 +1,25 @@
-<h1 align="center">🐲 drischdaan</h1>
+<h1 align="left">Hello there 👋🏼</h1>
 
-I'm a full-stack developer from germany <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" title="Germany" alt="Germany" width="13" height="13"/>, working at <a href="https://www.assecosolutions.com/en/">Asseco Solutions</a>. I'm passionate about expanding my skillset, exploring new technologies, enhancing developer experience, and crafting innovative software solutions. Currently I'm focusing on <a href="https://en.wikipedia.org/wiki/Computer_graphics">computer graphics</a>.
+My name is Tristan (aka drischdaan) and I'm a full-stack developer from germany <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" title="Germany" alt="Germany" width="13" height="13"/>, working at <a href="https://www.assecosolutions.com/en/" target="_blank">Asseco Solutions</a>. In my free time I like to work on side projects and learn new things. Currently I'm diving into the world of computer graphics, by building a rendering engine (<a href="https://github.com/Backyard-Studios/Renderwerk" target="_blank">Renderwerk</a>) using Vulkan and DirectX 12.
 
-💼 [Work Account](https://github.com/asseco-tristan)
+<div>
+  <a href="https://drischdaan.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-drischdaan.dev-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white&labelColor=%230A0A0A
+    ">
+  </a>
+  <a href="https://www.linkedin.com/in/tristan-zieger/" target="_blank">
+    <img src="https://img.shields.io/badge/-%40tristan--zieger-0A66C2?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2
+    ">
+  </a>
+  <a href="https://open.spotify.com/user/wqqh06uhneiz0mm94aqsgzhte" target="_blank">
+    <img src="https://img.shields.io/badge/-%40drischdaan-1ED760?style=flat-square&logo=spotify&logoColor=1DB954&labelColor=white
+    ">
+  </a>
+  <a href="https://www.instagram.com/drischdaan/" target="_blank">
+    <img src="https://img.shields.io/badge/-%40drischdaan-E4405F?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=white
+    ">
+  </a>
+</div>
 
 ---
 
@@ -14,39 +31,6 @@ I'm a full-stack developer from germany <img src="https://upload.wikimedia.org/w
 
 ---
 
-| Environment      | ![icons](https://skillicons.dev/icons?i=linux,git,vscode,idea)           |
-| :--------------- | :----------------------------------------------------------------------- |
-| Backend          | ![icons](https://skillicons.dev/icons?i=ts,nestjs,postgres,redis)        |
-| Frontend         | ![icons](https://skillicons.dev/icons?i=next,angular,tailwind,reactivex) |
-| Cloud            | ![icons](https://skillicons.dev/icons?i=azure,gcp,heroku)                |
-| Game Development | ![icons](https://skillicons.dev/icons?i=cpp,unity,unreal)                |
-| Tools            | ![icons](https://skillicons.dev/icons?i=docker,postman)                  |
-
----
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Drischdaan&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
----
-
-### Contact
-
-<a href="https://twitter.com/Drischdaan">
-  <img src="https://skillicons.dev/icons?i=twitter">
-</a>
-<a href="https://dev.to/drischdaan">
-  <img src="https://skillicons.dev/icons?i=devto">
-</a>
-<a href="https://www.instagram.com/drischdaan/">
-  <img src="https://skillicons.dev/icons?i=instagram">
-</a>
-<a href="https://www.linkedin.com/in/tristan-zieger/">
-  <img src="https://skillicons.dev/icons?i=linkedin">
-</a>
-
-<div>
-    <a href="https://www.buymeacoffee.com/Drischdaan">
-        <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=Drischdaan&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
-    </a>
-</div>
-
-<!-- https://github.com/devicons/devicon -->
+<!-- https://simpleicons.org/ -->
