@@ -1,6 +1,6 @@
 <h1 align="left">Hello there 👋🏼</h1>
 
-My name is Tristan (aka drischdaan) and I'm a full-stack developer from germany <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" title="Germany" alt="Germany" width="13" height="13"/>, working at <a href="https://www.assecosolutions.com/en/">Asseco Solutions</a>. In my free time I like to work on side projects and learn new things. Currently I'm diving into the world of computer graphics, by building a rendering engine (<a href="https://github.com/Backyard-Studios/Renderwerk">Renderwerk</a>) using Vulkan and DirectX 12.
+My name is Tristan (aka drischdaan) and I'm a full-stack developer from germany <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" title="Germany" alt="Germany" width="13" height="13"/>, working at <a href="https://www.assecosolutions.com/en/">Asseco Solutions</a>. In my free time I like to work on side projects and learn new things. Currently I'm diving into the world of computer graphics, by building a rendering engine (<a href="https://github.com/Drischdaan/Renderwerk">Renderwerk</a>) using Vulkan and DirectX 12.
 
 <div>
   <a href="https://drischdaan.dev/">
